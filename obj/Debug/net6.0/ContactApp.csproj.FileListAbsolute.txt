@@ -1,0 +1,15 @@
+D:\Training\Session 18\ContactApp\bin\Debug\net6.0\ContactApp.exe
+D:\Training\Session 18\ContactApp\bin\Debug\net6.0\ContactApp.deps.json
+D:\Training\Session 18\ContactApp\bin\Debug\net6.0\ContactApp.runtimeconfig.json
+D:\Training\Session 18\ContactApp\bin\Debug\net6.0\ContactApp.dll
+D:\Training\Session 18\ContactApp\bin\Debug\net6.0\ContactApp.pdb
+D:\Training\Session 18\ContactApp\obj\Debug\net6.0\ContactApp.csproj.AssemblyReference.cache
+D:\Training\Session 18\ContactApp\obj\Debug\net6.0\ContactApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Session 18\ContactApp\obj\Debug\net6.0\ContactApp.AssemblyInfoInputs.cache
+D:\Training\Session 18\ContactApp\obj\Debug\net6.0\ContactApp.AssemblyInfo.cs
+D:\Training\Session 18\ContactApp\obj\Debug\net6.0\ContactApp.csproj.CoreCompileInputs.cache
+D:\Training\Session 18\ContactApp\obj\Debug\net6.0\ContactApp.dll
+D:\Training\Session 18\ContactApp\obj\Debug\net6.0\refint\ContactApp.dll
+D:\Training\Session 18\ContactApp\obj\Debug\net6.0\ContactApp.pdb
+D:\Training\Session 18\ContactApp\obj\Debug\net6.0\ContactApp.genruntimeconfig.cache
+D:\Training\Session 18\ContactApp\obj\Debug\net6.0\ref\ContactApp.dll
